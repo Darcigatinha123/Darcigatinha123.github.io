@@ -22,12 +22,20 @@ h1 {
     border-color: bisque;
 }
 
-h2{ 
+h3{ 
     border-color: blueviolet;
     border-width:4px;
-    border-color: greenyellow;
-    border-top: blue, solid;
+    border-style:dotted;
+    border-top:solid;
     border-right: solid;
     border-bottom: dotted;
     border-left: solid;
+}
+
+.espacamento_25 {
+padding: 25px;
+}
+
+.margem_20{
+    margin: 30px;
 }
