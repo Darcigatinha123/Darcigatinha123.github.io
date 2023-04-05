@@ -16,13 +16,14 @@ p {
     color: black;
 }
 
-p {
+h2 {
     border-style: dashed;
     border-width: 3px;
     border-color: bisque;
 }
 
-h1{ border-top: dotted;
+h1{ 
+    border-top: blue, solid;
     border-right: solid;
     border-bottom: dotted;
     border-left: solid;
