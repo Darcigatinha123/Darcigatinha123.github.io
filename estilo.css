@@ -16,9 +16,14 @@ p {
     color: black;
 }
 
-p{
+p {
     border-style: dashed;
     border-width: 3px;
     border-color: bisque;
 }
 
+h1{ border-top: dotted;
+    border-right: solid;
+    border-bottom: dotted;
+    border-left: solid;
+}
