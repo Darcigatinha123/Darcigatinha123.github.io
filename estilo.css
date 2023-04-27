@@ -1,6 +1,37 @@
-* {
-    background-color:beige;
-    color: rgb(108, 66, 147);
-    text-align: justify;
-    text-align: center ;
+p {
+    color:blue;
+    text-align:center;
+} 
+
+.bts {
+    color:blueviolet;
+ background-color: black;
 }
+
+#one{
+ color: red;
+}
+
+#direction{
+    color: black;
+}
+
+/*unvisited link*/
+a:link{
+    color: #FF0000
+}
+
+/*visited link*/
+a:visited {
+    color: #0f0;
+}
+
+/*mouse over link*/
+ a:hover{
+    color: #FF00FF;
+ }
+
+ /*selected link*/
+ a:active{
+    color: #00f;
+ }
