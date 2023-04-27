@@ -1,3 +1,18 @@
+h3 {
+    border-style: groove;
+    border-color: aqua;
+    border-bottom-style: groove;
+    border-bottom-color: rgb(146, 37, 197);
+    border-left-color: rgb(12, 127, 221);
+    border-right-color: rgb(12, 127, 221);
+   
+}
+
+h1 {
+    border-bottom-style: groove;
+    border-bottom-color: aqua;
+}
+
 p {
     color:blue;
     text-align:center;
